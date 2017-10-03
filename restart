@@ -1,0 +1,3 @@
+rm redwood
+go build
+./redwood
